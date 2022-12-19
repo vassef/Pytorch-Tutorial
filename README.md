@@ -1,5 +1,5 @@
 # Pytorch-Tutorial
-Here is the tutorial series prepared during the course intelligent systems.
+Here is the tutorial series I prepared during the intelligent systems course.
 ## Topics
 We will disscuss the following topics in order:
 1. Pytorch Basics
